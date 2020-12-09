@@ -1,5 +1,5 @@
 {
-  "name": "inventory-management-svc",
+  "name": "inventory-mgmt-svc-bp-hcl",
   "version": "1.0.0",
   "description": "Spring Boot application",
   "main": "index.js",
